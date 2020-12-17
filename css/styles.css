@@ -1,0 +1,163 @@
+body {
+  background-color: #ffffff;
+  color: #757575;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+}
+
+/* основной цвет текста #757575 */
+/* вторичный цвет текста  #212121 */
+/* акцент #2196F3 */
+/* белый #ffffff */
+/* вторичный цвет фона #2F303A #E5E5E5 #F5F4FA*/
+
+/* стилизация header */
+
+ul {
+  list-style: none;
+}
+
+.header .contacts a {
+  color: #757575;
+}
+
+.header .contacts a:hover,
+.header .contacts a:focus {
+  color: #2196f3;
+}
+
+.logo {
+  font-family: 'Raleway', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.192;
+  letter-spacing: 0.03em;
+  color: #000000;
+}
+
+.logotype {
+  color: #2196f3;
+}
+
+.site-nav a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.02em;
+  color: #212121;
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  color: #2196f3;
+}
+
+.header .contacts a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.02em;
+}
+
+/* стилизация героя */
+
+.hero {
+  background-color: #2f303a;
+}
+.hero-title {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+
+  color: #ffffff;
+}
+
+.button {
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 1.875;
+  background-color: #2196f3;
+  color: #ffffff;
+}
+
+/* стилизация заголовков */
+
+.features .title {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 1.142;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+.section-title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 1.167;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.names {
+  color: #212121;
+}
+
+/* особенности */
+
+.features p {
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+}
+
+/* наша команда */
+.our-team {
+  background-color: #f5f4fa;
+}
+
+.names {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.187;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.professions {
+  font-size: 16px;
+  line-height: 1.187;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+/* футер */
+
+.footer {
+  background-color: #2f303a;
+}
+
+address {
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: #ffffff;
+}
+
+.footer .contacts a {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.contacts a:hover,
+.contacts a:focus {
+  color: #2196f3;
+}
