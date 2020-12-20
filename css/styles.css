@@ -76,7 +76,6 @@ ul {
   font-weight: 900;
   font-size: 44px;
   line-height: 1.4;
-  text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   color: #ffffff;
@@ -104,7 +103,6 @@ ul {
   font-weight: bold;
   font-size: 36px;
   line-height: 1.2;
-  text-align: center;
   letter-spacing: 0.03em;
   color: #212121;
 }
@@ -129,14 +127,12 @@ ul {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.2;
-  text-align: center;
   letter-spacing: 0.03em;
 }
 
 .professions {
   font-size: 16px;
   line-height: 1.2;
-  text-align: center;
   letter-spacing: 0.03em;
 }
 
@@ -181,6 +177,7 @@ li button:focus {
 }
 
 address {
+  font-style: normal;
   line-height: 0.7x;
   letter-spacing: 0.03em;
   color: #ffffff;
