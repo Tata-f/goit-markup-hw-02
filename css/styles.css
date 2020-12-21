@@ -100,7 +100,7 @@ ul {
   font-weight: bold;
   font-size: 16px;
   line-height: 1.8;
-  background-color: #2196f3;
+  background-color: var(--accent-color);
   color: var(--secondary-text-color);
 }
 
@@ -167,7 +167,7 @@ li button:hover {
 
 li button:hover,
 li button:focus {
-  background-color: #2196f3;
+  background-color: var(--accent-color);
 }
 
 .cards h2 {
