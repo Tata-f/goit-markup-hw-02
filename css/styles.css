@@ -6,6 +6,7 @@
 }
 
 body {
+  width: 1200px;
   background-color: var(--secondary-text-color);
   color: var(--primary-text-color);
   font-size: 14px;
